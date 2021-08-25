@@ -8,8 +8,8 @@ buildscript {
         }
     }
     dependencies {
-        classpath("com.android.tools.build:gradle:4.1.3")
-        classpath("org.mozilla.rust-android-gradle:plugin:0.8.6")
+        classpath("com.android.tools.build:gradle:7.0.1")
+        classpath("org.mozilla.rust-android-gradle:plugin:0.9.0")
     }
 }
 
